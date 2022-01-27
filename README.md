@@ -1,2 +1,5 @@
 # python_notebook
-Python Notebooks
+
+Repo to hold various Python Notebooks
+
+Notebooks most likely saved from Google Colab
